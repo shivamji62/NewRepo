@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieManagementAPI", "MovieManagementAPI\MovieManagementAPI.csproj", "{94CA2445-4624-4C59-990D-0920EFB216E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagement.Domain", "MovieManagement.Domain\MovieManagement.Domain.csproj", "{D602C8D5-6ED4-45CE-83B3-B84C45306327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagement.DataAccess", "MovieManagement.DataAccess\MovieManagement.DataAccess.csproj", "{04E9B1BC-082A-4F9E-BB58-BFBF2499E182}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CA2445-4624-4C59-990D-0920EFB216E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CA2445-4624-4C59-990D-0920EFB216E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CA2445-4624-4C59-990D-0920EFB216E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CA2445-4624-4C59-990D-0920EFB216E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D602C8D5-6ED4-45CE-83B3-B84C45306327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D602C8D5-6ED4-45CE-83B3-B84C45306327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D602C8D5-6ED4-45CE-83B3-B84C45306327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D602C8D5-6ED4-45CE-83B3-B84C45306327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E9B1BC-082A-4F9E-BB58-BFBF2499E182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E9B1BC-082A-4F9E-BB58-BFBF2499E182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E9B1BC-082A-4F9E-BB58-BFBF2499E182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E9B1BC-082A-4F9E-BB58-BFBF2499E182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

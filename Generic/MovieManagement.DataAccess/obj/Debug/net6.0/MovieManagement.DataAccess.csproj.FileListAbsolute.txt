@@ -1,0 +1,17 @@
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.deps.json
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.runtimeconfig.json
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.dll
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.DataAccess.pdb
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.Domain.dll
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\bin\Debug\net6.0\MovieManagement.Domain.pdb
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.AssemblyInfo.cs
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.csproj.CopyComplete
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.dll
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\refint\MovieManagement.DataAccess.dll
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.pdb
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\MovieManagement.DataAccess.genruntimeconfig.cache
+C:\Users\user\MyProjects\GenericRepository\Generic\MovieManagement.DataAccess\obj\Debug\net6.0\ref\MovieManagement.DataAccess.dll
